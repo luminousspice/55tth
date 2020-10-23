@@ -1,0 +1,29 @@
+baseURL = "https://55tth.netlity.app/"
+languageCode = "ja"
+title = "55ttH"
+theme = "notrack"
+mainSections = ["blog"]
+paginate = 4
+showTaxonomyLinks = false
+hasCJKLanguage = true
+GoogleAnalytics = "G-K3ZMKM8CPG"
+
+[params]
+  author = "Luminous Spice"
+  siteHeading = "55ttH" # defaults to author
+  showBlogLatest = true
+  mainSections = ["blog"]
+  showTaxonomyLinks = false
+  nBlogLatest = 4 # number of blog post om the home page
+  blogLatestHeading = "Blog"
+
+[taxonomies]
+  year = "year"
+  month = "month"
+  tags = "tags"
+  categories = "categories"
+
+[permalinks]
+  blog = "/blog/:slug"
+
+
