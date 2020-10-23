@@ -1,0 +1,9 @@
+<article class="blog-post-summary">
+    <h3 class="blog-post-title"><a href="{{ .Permalink }}">{{.Title}}</a></h3>
+
+    <p class="blog-post-info"><time>{{ .Date.Format "2006-01-02"}}</time></p>
+    <p>
+        {{- .Summary -}}
+        <span> <a href="{{ .Permalink }}">  &gt;&gt;&gt; </a></span>
+    </p>
+</article>
