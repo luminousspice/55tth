@@ -1,0 +1,142 @@
+---
+slug: "slash-reading-for-classics"
+date: "2020-10-26T03:24:24+00:00"
+lastmod: "2020-10-26T03:24:24+00:00"
+title: "#3: 古文スラッシュリーディング - マダム式古文読解の世界"
+type: "blog"
+categories: ["オンラインコース"]
+tags: ["動画","文語文法","古文読解"]
+excerpt: "スラッシュリーディングをしながら、大学受験の古文の読み方、その時の頭の働かせ方を学ぶYouTube動画の紹介"
+---
+= 古文スラッシュリーディング - マダム式古文読解の世界
+:author: luminousspice
+:lang: ja-jp
+:encoding: UTF-8
+:keywords:
+:description: スラッシュリーディングをしながら、大学受験の古文の読み方、その時の頭の働かせ方を学ぶYouTube動画の紹介
+:toc: macro
+:toc-placement:
+:toclevels: 1
+:icons: font
+
+{description}
+
+toc::[]
+
+== マダム式古文読解とは
+
+マダム式古文読解とは、link:https://www.youtube.com/channel/UCwjyutqnErtOfOFYUZa7USg/featured?pbjreload=102[マダム百合子先生]作成の古文読解のYouTube動画です。基本読解12回、実践編 文学史1回、実践編 説話読解20回からなります。スラッシュリーディングをしながら、大学受験の古文の読み方、その時の頭の働かせ方を丁寧に説明する内容となっています。
+
+基礎講座12回分は先生の指示通りに12回分通して視聴するのは言うまでもないです。全ての動画を視聴後に、重要な箇所を繰り返し復習するための講座一覧を作成しました。また、各動画で使用している教材へのリンクも付けました。
+
+== マダム式古文読解 基礎編12回
+
+=== {{< ytm-link jcfhTpjtmKI >}}第1回　一般的に言われている古文読解のコツは嘘ばかり{{< /ytm-link >}}
+{{< ytmodal jcfhTpjtmKI >}}
+
+==== 構成
+{{< ytm-link jcfhTpjtmKI 941 >}}15：41{{< /ytm-link >}} 「を・に・ば」スラッシュの実演
+
+==== 教材
+icon:file-pdf[] link:https://drive.google.com/file/d/1VdRcBfByvS9bIT9mH7tCu7yZdfuOcGRr/view?usp=sharing[竹取物語「くらもちの皇子」^]   
+icon:file-pdf[] link:https://drive.google.com/file/d/1s2FEZk0voCSQVsXwf0T1FrqokLfW8con/view?usp=sharing[今鏡（センター）^]    
+icon:file-pdf[] link:https://drive.google.com/file/d/1DLrJf0iA_7mupC0cvIssMFrr6Zpo3Cx3/view?usp=sharing[住吉物語（センター抜粋）^]    
+
+=== {{< ytm-link vfnQUAjEBfY >}}第2回　動詞を一日でコンプリート{{< /ytm-link >}}	
+{{< ytmodal vfnQUAjEBfY >}}
+
+==== 構成
+{{< ytm-link vfnQUAjEBfY 24 >}}0：24{{< /ytm-link >}} 動詞の活用
+
+{{< ytm-link vfnQUAjEBfY 1702 >}}28：22{{< /ytm-link >}} 活用形と接続表の説明
+
+==== 教材
+icon:file-pdf[] link:https://drive.google.com/file/d/1RNVm_4ZgL0w99uDJZ_xEPKkmDjkjpHCo/view?usp=sharing[マダム式の動詞の一覧表^]
+icon:file-pdf[] link:https://drive.google.com/file/d/1Rjbuxdubw-KaYw869X5WoRTYoV3NROVp/view?usp=sharing[マダム式接続一覧表^]
+
+=== {{< ytm-link HMabD27u9dY >}}第3回　形容詞・形容動詞なんて10分でコンプリート{{< /ytm-link >}}	
+{{< ytmodal HMabD27u9dY >}}
+
+==== 構成
+{{< ytm-link HMabD27u9dY 24 >}}0：24{{< /ytm-link >}} 接続表の説明、活用形を答える問題の解き方
+
+{{< ytm-link HMabD27u9dY 362 >}}6：02{{< /ytm-link >}} 形容詞と形容動詞の活用
+
+==== 教材
+icon:file-pdf[] link:https://drive.google.com/file/d/1Rjbuxdubw-KaYw869X5WoRTYoV3NROVp/view?usp=sharing[マダム式接続一覧表^]
+icon:file-pdf[] link:https://drive.google.com/file/d/1YZ2jhyvcFm6buKvPhyKj3PdJQ43YH_mE/view?usp=sharing[マダム式形容詞・形容動詞の一覧表^]
+
+=== {{< ytm-link 1-BJDJllrgE >}}第4回　文法を読解に活かす場所は決まっている{{< /ytm-link >}}
+{{< ytmodal 1-BJDJllrgE >}}
+
+
+=== {{< ytm-link EkrLD_CNN9c >}}第5回　助動詞は超ウルトラ重要単語です。たった28個。一日でコンプリートしませんか？{{< /ytm-link >}}
+{{< ytmodal EkrLD_CNN9c >}}
+
+==== 教材
+icon:file-pdf[] link:https://drive.google.com/file/d/1Rz-jo8keEgA8sSLsoQDodMvPcmqr4AiE/view?usp=sharing[マダム式助動詞の一覧表^]
+
+=== {{< ytm-link Jb7nxH6WFlE >}}第6回「助動詞の接続」この助動詞の上には何形がくるの？これが接続です。5分でコンプリート{{< /ytm-link >}}
+{{< ytmodal Jb7nxH6WFlE >}}
+
+==== 教材
+icon:file-pdf[] link:https://drive.google.com/file/d/1Rz-jo8keEgA8sSLsoQDodMvPcmqr4AiE/view?usp=sharing[マダム式助動詞の一覧表^]
+
+=== {{< ytm-link VMAmBQAElz8 >}}第7回　助動詞の識別なんて頭使わなくても出来ます。識別なんて10分でコンプリート{{< /ytm-link >}}
+{{< ytmodal VMAmBQAElz8 >}}
+
+==== 構成
+{{< ytm-link VMAmBQAElz8 24 >}}0：24{{< /ytm-link >}} 助動詞を視覚で見つける方法
+
+{{< ytm-link VMAmBQAElz8 1840 >}}30：40{{< /ytm-link >}} 第1回目でスラッシュ済みの文章を使った、助動詞を目で見て確認する作業
+
+==== 教材
+icon:file-pdf[] link:https://drive.google.com/file/d/1VdRcBfByvS9bIT9mH7tCu7yZdfuOcGRr/view?usp=sharing[竹取物語「くらもちの皇子」^]   
+icon:file-pdf[] link:https://drive.google.com/file/d/1s2FEZk0voCSQVsXwf0T1FrqokLfW8con/view?usp=sharing[今鏡（センター）^]    
+icon:file-pdf[] link:https://drive.google.com/file/d/1DLrJf0iA_7mupC0cvIssMFrr6Zpo3Cx3/view?usp=sharing[住吉物語（センター抜粋）^]    
+
+=== {{< ytm-link EEGFYROH9XM >}}第8回　重要単語を覚える前にこれだけは知っておいてほしいこと{{< /ytm-link >}}
+{{< ytmodal EEGFYROH9XM >}}
+
+=== {{< ytm-link y0CE1PoTr68 >}}第9回　敬語なんてチョロい！種類と意味を一日でコンプリート{{< /ytm-link >}}
+{{< ytmodal y0CE1PoTr68 >}}
+
+==== 教材
+icon:file-pdf[] link:https://drive.google.com/file/d/1wojZ2Ezpkhef-PJy5xDo1mBDcZ5f1JmA/view?usp=sharing[マダム式敬語一覧表^]
+
+=== {{< ytm-link L6VFv91Y6bg >}}第10回　種類が分かる　→　主語が分かる　→　敬意の方向がわかる{{< /ytm-link >}}
+{{< ytmodal L6VFv91Y6bg >}}
+
+==== 構成
+{{< ytm-link L6VFv91Y6bg 24 >}}0：24{{< /ytm-link >}} 主語の決定
+
+{{< ytm-link L6VFv91Y6bg 375 >}}6：15{{< /ytm-link >}} 第7回で助動詞を確認した文章の敬語の確認
+
+{{< ytm-link L6VFv91Y6bg 1312 >}}21：52{{< /ytm-link >}} 敬意の方向
+
+
+==== 教材
+icon:file-pdf[] link:https://drive.google.com/file/d/1wojZ2Ezpkhef-PJy5xDo1mBDcZ5f1JmA/view?usp=sharing[マダム式敬語一覧表^]
+
+icon:file-pdf[] link:https://drive.google.com/file/d/1VdRcBfByvS9bIT9mH7tCu7yZdfuOcGRr/view?usp=sharing[竹取物語「くらもちの皇子」^]   
+icon:file-pdf[] link:https://drive.google.com/file/d/1s2FEZk0voCSQVsXwf0T1FrqokLfW8con/view?usp=sharing[今鏡（センター）^]    
+icon:file-pdf[] link:https://drive.google.com/file/d/1DLrJf0iA_7mupC0cvIssMFrr6Zpo3Cx3/view?usp=sharing[住吉物語（センター抜粋）^]    
+
+=== {{< ytm-link At95CRmsEdA >}}第11回　あなたの主語がとれない原因はこれです{{< /ytm-link >}}
+{{< ytmodal At95CRmsEdA >}}
+
+=== {{< ytm-link uJjlx8h2c-Y >}}第12回「スラッシュリーディングで読解をコンプリート‼」本文・解説プリント付きです{{< /ytm-link >}}
+{{< ytmodal uJjlx8h2c-Y >}}
+
+==== 教材
+icon:file-pdf[] link:https://drive.google.com/file/d/1VdRcBfByvS9bIT9mH7tCu7yZdfuOcGRr/view?usp=sharing[竹取物語 本文^] 
+icon:file-pdf[] link:https://drive.google.com/file/d/1s2FEZk0voCSQVsXwf0T1FrqokLfW8con/view?usp=sharing[今鏡 本文^] 
+icon:file-pdf[] link:https://drive.google.com/file/d/1DLrJf0iA_7mupC0cvIssMFrr6Zpo3Cx3/view?usp=sharing[住吉物語 本文^]
+
+==== 解説
+icon:file-pdf[] link:https://drive.google.com/file/d/1DNa2Z2POsnI_b6HhXS7wF8v3V6Vs-I8a/view?usp=sharing[竹取物語 解説^] 
+icon:file-pdf[] link:https://drive.google.com/file/d/1dvOwa6eNw1RIlYhMgFIDj18XImmOs7_i/view?usp=sharing[今鏡 解説 1^] 
+icon:file-pdf[] link:https://drive.google.com/file/d/19MxNMNr-4sLkKkaPG56GuE82KGSkgxDg/view?usp=sharing[今鏡 解説 2^] 
+icon:file-pdf[] link:https://drive.google.com/file/d/1rMRGq8gtDG7ZjM4CDCR6svAM8Ta2INiw/view?usp=sharing[住吉物語 解説^]
+
+{{< ytmodal-script >}}
