@@ -3,7 +3,10 @@
     {{- partial "analytics.html" . -}}
     <title>{{ .Site.Title }} {{ with .Title }}- {{ . }} {{ end }}</title>
     <link rel="stylesheet" type="text/css" href='{{ "css/fonts.css" | absURL }}'>
+    <link rel="stylesheet" type="text/css" href='{{ "css/fontawesome.css" | absURL }}'>
     <link rel="stylesheet" type="text/css" href='{{ "css/styles.css" | absURL }}'>
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/tingle/0.14.0/tingle.min.css">
+    
     {{ with resources.Get "css/userstyles.css" }}
     <link rel="stylesheet" type="text/css" href="{{ .Permalink }}">
     {{ end }}

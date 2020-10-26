@@ -12,3 +12,73 @@
    font-size: 1em;
    color: #5f5a6f;
    text-align: left; }
+   
+   
+   
+
+.iframe-content{
+   position: relative;
+   padding-top: 56.25%;
+}
+.iframe-content iframe{
+   position: absolute;
+   width: 100%;
+   height: 100%;
+   top: 0;
+   left: 0;
+}
+/**
+* tingle modal modified
+**/
+.tingle-modal {
+   padding-top: 40px;
+   padding-bottom: 40px;
+   display: flex;
+   align-items: center;
+}
+.tingle-modal-box {
+   width: 850px;
+   max-width: 90%;
+   border-radius:0;
+}
+.tingle-modal-box__content{
+   padding: 0;
+}
+.tingle-modal__close{
+   height: 45px;
+   width: 48px;
+   outline:none !important;
+   background-color: rgba(0,0,0,.8);
+}
+@media(max-width: 540px){
+   .tingle-modal {
+       padding: 20px 15px;
+   }
+   .tingle-modal-box {
+       max-width: 100%;
+   }
+   .tingle-modal__close{
+       font-size: 1.6rem;
+       left: auto;
+       right: 0px;
+       line-height: 1.6rem;
+   }
+   .tingle-modal__closeIcon{
+       font-size: 1.2rem;
+       margin-right: 0;
+   }
+   .tingle-modal__closeLabel{
+       display: none;
+   }
+}
+@media(min-width: 541px){
+   .tingle-modal__close{
+       font-size: 1.2rem;
+       top: 20px;
+       right: 20px;
+   }
+   .tingle-modal__closeIcon{
+       font-size: 1.2rem;
+       margin-right: 0;
+   }
+}
