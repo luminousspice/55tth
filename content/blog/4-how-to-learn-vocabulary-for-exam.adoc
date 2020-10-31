@@ -1,7 +1,7 @@
 ---
 slug: "4-how-to-learn-vocabulary-book-for-exam"
 date: "2020-10-30T13:38:48+00:00"
-lastmod: "2020-10-30T13:38:48+00:"
+lastmod: "2020-10-30T13:38:48+00:00"
 title: "#4: 定期試験のための単語帳の覚え方"
 type: "blog"
 categories: ["暗記"]
