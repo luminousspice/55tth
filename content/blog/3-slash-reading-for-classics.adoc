@@ -128,6 +128,8 @@ icon:file-pdf[] link:https://drive.google.com/file/d/1DLrJf0iA_7mupC0cvIssMFrr6Z
 === {{< ytm-link uJjlx8h2c-Y >}}第12回「スラッシュリーディングで読解をコンプリート‼」本文・解説プリント付きです{{< /ytm-link >}}
 {{< ytmodal uJjlx8h2c-Y >}}
 
+なお、課題文「今鏡」登場人物の成通は「link:https://www.amazon.co.jp/dp/4309404731[空飛ぶ大納言^]」の藤原成通である。
+
 ==== 教材
 icon:file-pdf[] link:https://drive.google.com/file/d/1VdRcBfByvS9bIT9mH7tCu7yZdfuOcGRr/view?usp=sharing[竹取物語 本文^] 
 icon:file-pdf[] link:https://drive.google.com/file/d/1s2FEZk0voCSQVsXwf0T1FrqokLfW8con/view?usp=sharing[今鏡 本文^] 
