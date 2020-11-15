@@ -13,7 +13,7 @@ excerpt: "マダム式古文読解シリーズの使い方に関するよくあ�
 :lang: ja-jp
 :encoding: UTF-8
 :keywords:
-:description:　マダム式古文読解シリーズの使い方に関するよくある質問とその答えを動画内の説明やコメント投稿を参考にまとめました。
+:description: マダム式古文読解シリーズの使い方に関するよくある質問とその答えを動画内の説明やコメント投稿を参考にまとめました。
 :toc: macro
 :toc-placement:
 :toclevels: 1
